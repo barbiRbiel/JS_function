@@ -1,0 +1,19 @@
+button:focus {
+    outline: 0;
+}
+.navbar .dropdown-menu .form-control {
+    width: 200px;
+}
+.navbar{
+    background-color: transparent;
+    border-color: black;
+}
+h6{
+    color: darkslateblue;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    padding-left: 15vh;
+}
+.navbar__logo{
+    width: 55px;
+}
